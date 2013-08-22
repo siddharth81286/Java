@@ -1,4 +1,4 @@
-package com.sayem;
+package com.sayem.chapter1;
 
 class Example {
     // A Java program begins with a call to main().

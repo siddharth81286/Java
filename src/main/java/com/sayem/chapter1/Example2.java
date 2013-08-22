@@ -1,4 +1,4 @@
-package com.sayem;
+package com.sayem.chapter1;
 
 class Example2 {
     public static void main(String args[]) {
