@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/GalToLit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/IfDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,10 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GalToLit.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GalToLit.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/GalToLit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="15" selection-start="380" selection-end="380" vertical-scroll-proportion="0.3683589">
+            <state line="13" column="15" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IfDemo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/IfDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="1" selection-start="759" selection-end="759" vertical-scroll-proportion="0.85005903">
               <folding />
             </state>
           </provider>
@@ -127,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Example2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Example3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/GalToLit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/IfDemo.java" />
       </list>
     </option>
   </component>
@@ -486,7 +497,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/GalToLit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="15" selection-start="380" selection-end="380" vertical-scroll-proportion="0.3683589">
+        <state line="13" column="15" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/IfDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="1" selection-start="759" selection-end="759" vertical-scroll-proportion="0.85005903">
           <folding />
         </state>
       </provider>
