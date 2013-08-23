@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Ladder.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -95,10 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Guess3.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Guess3.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="615" selection-end="615" vertical-scroll-proportion="0.6233766">
+            <state line="22" column="1" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ladder.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Ladder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="12" selection-start="35" selection-end="41" vertical-scroll-proportion="0.056670602">
               <folding />
             </state>
           </provider>
@@ -122,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter2/ScopeDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter2/VarInitDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter2/NestVar.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter2/ModDemo.java" />
@@ -138,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Ladder.java" />
       </list>
     </option>
   </component>
@@ -512,13 +521,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter2/ScopeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter2/VarInitDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="1" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0">
@@ -619,7 +621,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="615" selection-end="615" vertical-scroll-proportion="0.6233766">
+        <state line="22" column="1" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Ladder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="12" selection-start="35" selection-end="41" vertical-scroll-proportion="0.056670602">
           <folding />
         </state>
       </provider>
