@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Power.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/DWDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -122,10 +122,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Power.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Power.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Power.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="1" selection-start="405" selection-end="405" vertical-scroll-proportion="0.5383707">
+            <state line="19" column="1" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DWDemo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/DWDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="1" selection-start="317" selection-end="317" vertical-scroll-proportion="0.3683589">
               <folding />
             </state>
           </provider>
@@ -149,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Ladder.java" />
@@ -165,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/ForVar.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/WhileDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Power.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/DWDemo.java" />
       </list>
     </option>
   </component>
@@ -540,13 +549,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="1" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0">
@@ -647,7 +649,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Power.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="405" selection-end="405" vertical-scroll-proportion="0.5383707">
+        <state line="19" column="1" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/DWDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="317" selection-end="317" vertical-scroll-proportion="0.3683589">
           <folding />
         </state>
       </provider>
