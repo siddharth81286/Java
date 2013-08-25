@@ -1,11 +1,26 @@
 package com.sayem.chapter4;
 
-/**
- * Created with IntelliJ IDEA.
- * User: sayem
- * Date: 8/25/13
- * Time: 7:11 PM
- * To change this template use File | Settings | File Templates.
- */
-public class Vehicle {
+class Vehicle {
+    int passengers; // number of passengers
+    int fuelcap;    // fuel capacity in gallons
+    int mpg;        // fuel consumption in miles per gallon
+}
+
+// This class declares an object of type Vehicle.
+class VehicleDemo {
+    public static void main(String args[]) {
+        Vehicle minivan = new Vehicle();
+        int range;
+
+        // assign values to fields in minivan
+        minivan.passengers = 7;
+        minivan.fuelcap = 16;
+        minivan.mpg = 21;
+
+        // compute the range assuming a full tank of gas
+        range = minivan.fuelcap * minivan.mpg;
+
+        System.out.println("Minivan can carry " + minivan.passengers +
+                " with a range of " + range);
+    }
 }
