@@ -2,8 +2,8 @@ package com.sayem.chapter4;
 
 class CompFuel {
     public static void main(String args[]) {
-        Vehicle minivan = new Vehicle();
-        Vehicle sportscar = new Vehicle();
+        Vehicle3 minivan = new Vehicle3();
+        Vehicle3 sportscar = new Vehicle3();
         double gallons;
         int dist = 252;
 
@@ -17,6 +17,7 @@ class CompFuel {
         sportscar.fuelcap = 14;
         sportscar.mpg = 12;
 
+        /*
         gallons = minivan.fuelneeded(dist);
 
         System.out.println("To go " + dist + " miles minivan needs " +
@@ -26,6 +27,6 @@ class CompFuel {
 
         System.out.println("To go " + dist + " miles sportscar needs " +
                 gallons + " gallons of fuel.");
-
+        */
     }
 }
