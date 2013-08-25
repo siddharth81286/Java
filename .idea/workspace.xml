@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break6.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -113,10 +113,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Break5.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Break5.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="1" selection-start="553" selection-end="553" vertical-scroll-proportion="0.5100354">
+            <state line="18" column="1" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Break6.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="1" selection-start="668" selection-end="668" vertical-scroll-proportion="0.7367178">
               <folding />
             </state>
           </provider>
@@ -140,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/DecrFor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/ForTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Empty.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Empty2.java" />
@@ -156,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break6.java" />
       </list>
     </option>
   </component>
@@ -531,13 +540,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/DecrFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="187" selection-end="187" vertical-scroll-proportion="0.2550177">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/ForTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="1" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
@@ -638,7 +640,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="553" selection-end="553" vertical-scroll-proportion="0.5100354">
+        <state line="18" column="1" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="668" selection-end="668" vertical-scroll-proportion="0.7367178">
           <folding />
         </state>
       </provider>
