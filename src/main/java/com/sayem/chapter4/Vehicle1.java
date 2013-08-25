@@ -1,15 +1,15 @@
 package com.sayem.chapter4;
 
-class Vehicle {
+class Vehicle1 {
     int passengers; // number of passengers
     int fuelcap;    // fuel capacity in gallons
     int mpg;        // fuel consumption in miles per gallon
 }
 
-// This class declares an object of type Vehicle.
+// This class declares an object of type Vehicle1.
 class VehicleDemo {
     public static void main(String args[]) {
-        Vehicle minivan = new Vehicle();
+        Vehicle1 minivan = new Vehicle1();
         int range;
 
         // assign values to fields in minivan
