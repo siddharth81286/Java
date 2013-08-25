@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle2.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -81,7 +81,16 @@
       <file leaf-file-name="Vehicle2.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="1" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.9433294">
+            <state line="14" column="27" selection-start="425" selection-end="432" vertical-scroll-proportion="0.20661157">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vehicle3.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="45" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -105,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Help2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/BreakDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Break2.java" />
@@ -120,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter3/FindFac.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle2.java" />
       </list>
     </option>
@@ -252,10 +261,6 @@
               <option name="myItemId" value="chapter4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vehicle2.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -285,6 +290,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="chapter4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vehicle1.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -530,11 +539,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Guess4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="1" selection-start="914" selection-end="914" vertical-scroll-proportion="0.82172376" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter3/Help2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="13" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.0" />
@@ -600,6 +604,13 @@
         <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="0.056670602" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="45" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="6" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
@@ -609,7 +620,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Vehicle2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="1" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.9433294">
+        <state line="14" column="27" selection-start="425" selection-end="432" vertical-scroll-proportion="0.20661157">
           <folding />
         </state>
       </provider>

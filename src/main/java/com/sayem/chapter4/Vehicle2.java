@@ -1,6 +1,6 @@
 package com.sayem.chapter4;
 
-class Vehicle {
+class Vehicle2 {
     int passengers; // number of passengers
     int fuelcap;    // fuel capacity in gallons
     int mpg;        // fuel consumption in miles per gallon
@@ -9,8 +9,8 @@ class Vehicle {
 // This class declares an object of type Vehicle.
 class TwoVehicles {
     public static void main(String args[]) {
-        Vehicle minivan = new Vehicle();
-        Vehicle sportscar = new Vehicle();
+        Vehicle2 minivan = new Vehicle2();
+        Vehicle2 sportscar = new Vehicle2();
 
         int range1, range2;
 
