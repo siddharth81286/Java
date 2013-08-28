@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ACopy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/Queue.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -69,10 +69,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ACopy.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ACopy.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ACopy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="1" selection-start="490" selection-end="490" vertical-scroll-proportion="0.5383707">
+            <state line="19" column="1" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="2" selection-start="716" selection-end="716" vertical-scroll-proportion="0.90672964">
               <folding />
             </state>
           </provider>
@@ -96,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/FDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Finalize.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Pwr.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter4/DemoPwr.java" />
@@ -112,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/AssignARef.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/LengthDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ACopy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/Queue.java" />
       </list>
     </option>
   </component>
@@ -487,11 +496,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter4/FDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter4/Finalize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="1" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0" />
@@ -584,7 +588,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ACopy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="490" selection-end="490" vertical-scroll-proportion="0.5383707">
+        <state line="19" column="1" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="2" selection-start="716" selection-end="716" vertical-scroll-proportion="0.90672964">
           <folding />
         </state>
       </provider>
