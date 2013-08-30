@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/ACopy.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/ACopy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/ArrayDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/ArrayDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/ArrayErr.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/ArrayErr.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/AssignARef.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/AssignARef.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/ForEach.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/ForEach.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/LengthDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/LengthDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/LowCase.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/LowCase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/MinMax2.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/MinMax2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/Phone.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/Phone.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/Ragged.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/Ragged.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/ShiftDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/ShiftDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/StrOps.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/StrOps.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/StringArrays.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/StringArrays.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/StringDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/StringDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/TwoD.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter5/TwoD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter6/MyClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,7 +68,17 @@
     <favorites_list name="Java" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="MyClass.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter6/MyClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="1" selection-start="415" selection-end="415" vertical-scroll-proportion="0.5100354">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -99,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/StringDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/StrOps.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/StringArrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/SubStr.java" />
@@ -115,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShowBitsDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/NoZeroDiv.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/NoZeroDiv2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter6/MyClass.java" />
       </list>
     </option>
   </component>
@@ -214,6 +211,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sayem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sayem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -371,7 +398,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1900" height="993" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -387,7 +414,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16558792" sideWeight="0.67085713" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16558792" sideWeight="0.67085713" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -463,11 +490,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter5/SubStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter5/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" />
@@ -553,6 +575,13 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter5/NoZeroDiv2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="15" selection-start="269" selection-end="269" vertical-scroll-proportion="0.3116883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter6/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="1" selection-start="415" selection-end="415" vertical-scroll-proportion="0.5100354">
           <folding />
         </state>
       </provider>
