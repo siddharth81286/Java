@@ -1,4 +1,4 @@
-package com.sayem.Chapter5;
+package com.sayem.chapter5;
 
 class SubStr {
     public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package com.sayem.Chapter5;
+package com.sayem.chapter5;
 
 class LowCase {
     public static void main(String args[]) {
