@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShowBits.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShowBits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShowBitsDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -78,10 +78,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShowBits.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ShowBits.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShowBits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="22" selection-start="460" selection-end="460" vertical-scroll-proportion="0.40495867">
+            <state line="28" column="22" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowBitsDemo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShowBitsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="18" selection-start="35" selection-end="47" vertical-scroll-proportion="0.056670602">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShiftDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShiftDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -105,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/NoChange.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ForEach2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/Search.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/StringDemo.java" />
@@ -121,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/NotDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShiftDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShowBits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShowBitsDemo.java" />
       </list>
     </option>
   </component>
@@ -499,11 +517,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/StringDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/StrOps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="1" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0" />
@@ -554,11 +567,6 @@
         <state line="21" column="0" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShiftDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="745" selection-end="745" vertical-scroll-proportion="0.76505315" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/StringSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" />
@@ -580,7 +588,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShowBits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="22" selection-start="460" selection-end="460" vertical-scroll-proportion="0.40495867">
+        <state line="28" column="22" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShiftDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/Chapter5/ShowBitsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="35" selection-end="47" vertical-scroll-proportion="0.056670602">
           <folding />
         </state>
       </provider>
