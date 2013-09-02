@@ -2,7 +2,7 @@ package com.sayem.chapter6;
 
 class CallByValue {
     public static void main(String args[]) {
-        Test ob = new Test();
+        Test1 ob = new Test1();
 
         int a = 15, b = 20;
 
