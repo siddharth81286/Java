@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter6/VarArgs4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter6/VarArgs4.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter6/VarArgs4.java" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -144,7 +143,7 @@
       <file leaf-file-name="VarArgs4.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter6/VarArgs4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="413" selection-end="413" vertical-scroll-proportion="0.6233766">
+            <state line="22" column="12" selection-start="415" selection-end="415" vertical-scroll-proportion="0.6233766">
               <folding />
             </state>
           </provider>
@@ -669,7 +668,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter6/VarArgs4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="413" selection-end="413" vertical-scroll-proportion="0.6233766">
+        <state line="22" column="12" selection-start="415" selection-end="415" vertical-scroll-proportion="0.6233766">
           <folding />
         </state>
       </provider>
