@@ -1,8 +1,8 @@
 package com.sayem.chapter7;
 
 class TwoDShape {
-    double width;
-    double height;
+    private double width;  // these are
+    private double height; // now private
 
     void showDim() {
         System.out.println("Width and height are " +
