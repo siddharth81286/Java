@@ -3,10 +3,8 @@ package com.sayem.chapter7;
 class Triangle extends TwoDShape {
     private String style;
 
-    // Constructor
     Triangle(String s, double w, double h) {
-        setWidth(w);
-        setHeight(h);
+        super(w, h); // call superclass constructor
 
         style = s;
     }
