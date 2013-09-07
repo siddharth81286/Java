@@ -4,10 +4,20 @@ class TwoDShape {
     private double width;
     private double height;
 
+    // A default constructor.
+    TwoDShape() {
+        width = height = 0.0;
+    }
+
     // Parameterized constructor.
     TwoDShape(double w, double h) {
         width = w;
         height = h;
+    }
+
+    // Construct object with equal width and height.
+    TwoDShape(double x) {
+        width = height = x;
     }
 
     // Accessor methods for width and height.
