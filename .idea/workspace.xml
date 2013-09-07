@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378469680392" ignored="false" />
+    <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378567398928" ignored="false" />
     <file path="/LengthDemo.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1377606339288" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -59,7 +60,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -69,55 +69,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TwoDShape.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="TwoDShape.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="8" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="1" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shapes3.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="1" selection-start="531" selection-end="531" vertical-scroll-proportion="0.5383707">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shapes2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="1" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shapes.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="1" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+            <state line="22" column="1" selection-start="558" selection-end="558" vertical-scroll-proportion="0.6233766">
               <folding />
             </state>
           </provider>
@@ -154,9 +109,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java" />
       </list>
     </option>
   </component>
@@ -199,6 +154,7 @@
       <sortByType ProjectPane="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -289,7 +245,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -306,8 +261,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -324,6 +279,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -352,19 +320,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -587,35 +542,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="1" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0">
+        <state line="27" column="1" selection-start="652" selection-end="652" vertical-scroll-proportion="0.76505315">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+        <state line="11" column="1" selection-start="218" selection-end="218" vertical-scroll-proportion="0.3116883">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="1" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
+        <state line="27" column="1" selection-start="661" selection-end="661" vertical-scroll-proportion="0.76505315">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
+        <state line="20" column="1" selection-start="379" selection-end="379" vertical-scroll-proportion="0.566706">
           <folding />
         </state>
       </provider>
@@ -623,6 +571,13 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="1" selection-start="531" selection-end="531" vertical-scroll-proportion="0.5383707">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="1" selection-start="558" selection-end="558" vertical-scroll-proportion="0.6233766">
           <folding />
         </state>
       </provider>
