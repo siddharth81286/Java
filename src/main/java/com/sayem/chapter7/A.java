@@ -1,28 +1,27 @@
 package com.sayem.chapter7;
 
 class A {
-    int i;
+    A() {
+        System.out.println("Constructing A.");
+    }
 }
 
 // Create a subclass by extending class A.
 class B extends A {
-    int i; // this i hides the i in A
-
-    B(int a, int b) {
-        super.i = a; // i in A
-        i = b; // i in B
-    }
-
-    void show() {
-        System.out.println("i in superclass: " + super.i);
-        System.out.println("i in subclass: " + i);
+    B() {
+        System.out.println("Constructing B.");
     }
 }
 
-class UseSuper {
-    public static void main(String args[]) {
-        B subOb = new B(1, 2);
+// Create another subclass by extending B.
+class C extends B {
+    C() {
+        System.out.println("Constructing C.");
+    }
+}
 
-        subOb.show();
+class OrderOfConstruction {
+    public static void main(String args[]) {
+        C c = new C();
     }
 }
