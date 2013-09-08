@@ -9,7 +9,6 @@ class Triangle extends TwoDShape {
         style = "none";
     }
 
-    // Constructor
     Triangle(String s, double w, double h) {
         super(w, h); // call superclass constructor
 
