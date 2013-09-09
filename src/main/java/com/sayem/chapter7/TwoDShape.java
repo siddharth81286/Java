@@ -20,6 +20,12 @@ class TwoDShape {
         width = height = x;
     }
 
+    // Construct an object from an object.
+    TwoDShape(TwoDShape ob) {
+        width = ob.width;
+        height = ob.height;
+    }
+
     // Accessor methods for width and height.
     double getWidth() { return width; }
     double getHeight() { return height; }
