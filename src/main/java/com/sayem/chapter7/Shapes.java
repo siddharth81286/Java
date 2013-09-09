@@ -4,7 +4,7 @@ class Shapes {
     public static void main(String args[]) {
         Triangle t1 = new Triangle();
         Triangle t2 = new Triangle();
-
+        /*
         t1.width = 4.0;
         t1.height = 4.0;
         t1.style = "filled";
@@ -12,7 +12,7 @@ class Shapes {
         t2.width = 8.0;
         t2.height = 12.0;
         t2.style = "outlined";
-
+        */
         System.out.println("Info for t1: ");
         t1.showStyle();
         t1.showDim();
