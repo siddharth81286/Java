@@ -1,27 +1,36 @@
 package com.sayem.chapter7;
 
 class A {
-    A() {
-        System.out.println("Constructing A.");
+    int i, j;
+    A(int a, int b) {
+        i = a;
+        j = b;
+    }
+
+    // display i and j
+    void show() {
+        System.out.println("i and j: " + i + " " + j);
     }
 }
 
-// Create a subclass by extending class A.
 class B extends A {
-    B() {
-        System.out.println("Constructing B.");
+    int k;
+
+    B(int a, int b, int c) {
+        super(a, b);
+        k = c;
+    }
+
+    // display k ñ this overrides show() in A
+    void show() {
+        System.out.println("k: " + k);
     }
 }
 
-// Create another subclass by extending B.
-class C extends B {
-    C() {
-        System.out.println("Constructing C.");
-    }
-}
-
-class OrderOfConstruction {
+class Override {
     public static void main(String args[]) {
-        C c = new C();
+        B subOb = new B(1, 2, 3);
+
+        subOb.show(); // this calls show() in B
     }
 }

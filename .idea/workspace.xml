@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes7.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/A.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/A.java" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,10 +86,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shapes7.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Shapes7.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="562" selection-end="562" vertical-scroll-proportion="0.65171194">
+            <state line="23" column="0" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="1" selection-start="585" selection-end="585" vertical-scroll-proportion="0.9433294">
               <folding />
             </state>
           </provider>
@@ -124,12 +132,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/OffRoad.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/ColorTriangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/X.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/SupSubRef.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/A.java" />
       </list>
     </option>
   </component>
@@ -258,6 +266,40 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="chapter7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sayem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -578,13 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="1" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/X.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="14" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0">
@@ -615,7 +650,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="562" selection-end="562" vertical-scroll-proportion="0.65171194">
+        <state line="23" column="0" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="1" selection-start="585" selection-end="585" vertical-scroll-proportion="0.9433294">
           <folding />
         </state>
       </provider>
