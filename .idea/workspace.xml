@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,10 +68,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TwoDShape.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TwoDShape.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="892" selection-end="892" vertical-scroll-proportion="1.1050768">
+            <state line="39" column="0" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Triangle.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="2" selection-start="801" selection-end="801" vertical-scroll-proportion="1.0767415">
               <folding />
             </state>
           </provider>
@@ -105,13 +113,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Truck.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TruckDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/OffRoad.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/ColorTriangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes6.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/X.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/SupSubRef.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java" />
       </list>
     </option>
   </component>
@@ -553,13 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="2" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/ColorTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="2" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
@@ -597,7 +598,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="892" selection-end="892" vertical-scroll-proportion="1.1050768">
+        <state line="39" column="0" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="2" selection-start="801" selection-end="801" vertical-scroll-proportion="1.0767415">
           <folding />
         </state>
       </provider>
