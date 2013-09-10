@@ -1,6 +1,6 @@
 package com.sayem.chapter8.bookpack;
 
-class BookDemo {
+public class BookDemo {
     public static void main(String args[]) {
         Book books[] = new Book[5];
 
