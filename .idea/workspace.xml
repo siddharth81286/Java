@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByThrees.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,10 +96,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ByTwos.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ByTwos.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="1" selection-start="546" selection-end="546" vertical-scroll-proportion="0.9433294">
+            <state line="34" column="1" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByThrees.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByThrees.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="1" selection-start="392" selection-end="392" vertical-scroll-proportion="0.7367178">
               <folding />
             </state>
           </provider>
@@ -131,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes7.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Sub.java" />
@@ -147,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Series.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/SeriesDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByThrees.java" />
       </list>
     </option>
   </component>
@@ -525,11 +535,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/DynShapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="28" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0" />
@@ -624,7 +629,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="1" selection-start="546" selection-end="546" vertical-scroll-proportion="0.9433294">
+        <state line="34" column="1" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByThrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="392" selection-end="392" vertical-scroll-proportion="0.7367178">
           <folding />
         </state>
       </provider>
