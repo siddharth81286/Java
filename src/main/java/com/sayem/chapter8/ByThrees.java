@@ -16,8 +16,7 @@ class ByThrees implements Series {
     }
 
     public void reset() {
-        start = 0;
-        val = 0;
+        val = start;
     }
 
     public void setStart(int x) {
