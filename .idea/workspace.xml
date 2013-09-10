@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Series.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/UseBook.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/UseBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -88,10 +87,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Series.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Series.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Series.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="1" selection-start="184" selection-end="184" vertical-scroll-proportion="0.1700118">
+            <state line="6" column="1" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByTwos.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="1" selection-start="373" selection-end="373" vertical-scroll-proportion="0.70838255">
               <folding />
             </state>
           </provider>
@@ -115,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/SupSubRef.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/TwoDShape.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Triangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes7.java" />
@@ -131,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/ProtectDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/UseBook.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Series.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java" />
       </list>
     </option>
   </component>
@@ -509,13 +517,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Sub.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="0" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
@@ -608,7 +609,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Series.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="184" selection-end="184" vertical-scroll-proportion="0.1700118">
+        <state line="6" column="1" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="1" selection-start="373" selection-end="373" vertical-scroll-proportion="0.70838255">
           <folding />
         </state>
       </provider>
