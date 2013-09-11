@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IQDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IConst.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -18,6 +18,7 @@
     <file path="/bookpack.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378816013829" ignored="false" />
     <file path="/UseBook.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378816147931" ignored="false" />
     <file path="/ExtBook.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378816297778" ignored="false" />
+    <file path="/IConst.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378902653433" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,10 +115,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IQDemo.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="IQDemo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IQDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="12" selection-start="35" selection-end="41" vertical-scroll-proportion="0.056670602">
+            <state line="2" column="12" selection-start="35" selection-end="41" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IConst.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IConst.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.1983471">
               <folding />
             </state>
           </provider>
@@ -141,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack/bookpack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/ExtBook.java" />
@@ -157,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/CircularQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/DynQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IQDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IConst.java" />
       </list>
     </option>
   </component>
@@ -535,11 +545,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="1" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="1" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" />
@@ -630,7 +635,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IQDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="35" selection-end="41" vertical-scroll-proportion="0.056670602">
+        <state line="2" column="12" selection-start="35" selection-end="41" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IConst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.1983471">
           <folding />
         </state>
       </provider>
