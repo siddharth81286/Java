@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/FixedQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/CircularQueue.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -87,10 +87,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FixedQueue.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FixedQueue.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/FixedQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="1" selection-start="831" selection-end="831" vertical-scroll-proportion="0.9350649">
+            <state line="33" column="1" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CircularQueue.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/CircularQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="24" selection-start="240" selection-end="253" vertical-scroll-proportion="0.1983471">
               <folding />
             </state>
           </provider>
@@ -114,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/DynShapes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter7/Shapes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack/BookDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack/bookpack.java" />
@@ -130,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/SeriesDemo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ICharQ.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/FixedQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/CircularQueue.java" />
       </list>
     </option>
   </component>
@@ -508,13 +517,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack/BookDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="14" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" />
@@ -599,7 +601,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/FixedQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="1" selection-start="831" selection-end="831" vertical-scroll-proportion="0.9350649">
+        <state line="33" column="1" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/CircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="240" selection-end="253" vertical-scroll-proportion="0.1983471">
           <folding />
         </state>
       </provider>
