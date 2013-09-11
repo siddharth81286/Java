@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/MyClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IFExtend.java" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,15 +78,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ICharQ.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ICharQ.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="1" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FixedQueue.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/FixedQueue.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -159,10 +150,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyClass.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/MyClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="1" selection-start="352" selection-end="352" vertical-scroll-proportion="0.45336482">
+            <state line="16" column="1" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IFExtend.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IFExtend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.3116883">
               <folding />
             </state>
           </provider>
@@ -186,7 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/UseBook.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Series.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/SeriesDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java" />
@@ -202,6 +201,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/B.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IFExtend.java" />
       </list>
     </option>
   </component>
@@ -580,11 +580,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/UseBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Series.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="1" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
@@ -685,7 +680,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/MyClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="1" selection-start="352" selection-end="352" vertical-scroll-proportion="0.45336482">
+        <state line="16" column="1" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IFExtend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.3116883">
           <folding />
         </state>
       </provider>
