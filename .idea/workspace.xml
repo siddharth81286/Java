@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/B.java" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -141,10 +141,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="A.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="0.1700118">
+            <state line="6" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="2" selection-start="130" selection-end="130" vertical-scroll-proportion="0.1416765">
               <folding />
             </state>
           </provider>
@@ -168,7 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/ExtBook.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/ProtectDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/UseBook.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Series.java" />
@@ -184,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IConst.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IConstD.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/B.java" />
       </list>
     </option>
   </component>
@@ -562,11 +571,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpackext/ProtectDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="9" selection-start="504" selection-end="504" vertical-scroll-proportion="0.3683589" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack/bookpack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="25" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" />
@@ -663,7 +667,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="0.1700118">
+        <state line="6" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="2" selection-start="130" selection-end="130" vertical-scroll-proportion="0.1416765">
           <folding />
         </state>
       </provider>
