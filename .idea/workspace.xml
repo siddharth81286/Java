@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/NotHandled.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcTypeMismatch.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -106,10 +106,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotHandled.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="NotHandled.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/NotHandled.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="272" selection-end="272" vertical-scroll-proportion="0.3116883">
+            <state line="11" column="1" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExcTypeMismatch.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcTypeMismatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="21" selection-start="35" selection-end="50" vertical-scroll-proportion="0.056670602">
               <folding />
             </state>
           </provider>
@@ -133,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/SeriesDemo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ICharQ.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/FixedQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/CircularQueue.java" />
@@ -149,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcDemo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/NotHandled.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcTypeMismatch.java" />
       </list>
     </option>
   </component>
@@ -527,11 +536,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/SeriesDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="17" selection-start="362" selection-end="362" vertical-scroll-proportion="0.3400236" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ICharQ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="1" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" />
@@ -610,7 +614,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/NotHandled.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="272" selection-end="272" vertical-scroll-proportion="0.3116883">
+        <state line="11" column="1" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcTypeMismatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="21" selection-start="35" selection-end="50" vertical-scroll-proportion="0.056670602">
           <folding />
         </state>
       </provider>
