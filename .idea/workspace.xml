@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IFExtend.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcDemo1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378902456456" ignored="false" />
+    <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378988608912" ignored="false" />
     <file path="/LengthDemo.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1377606339288" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Book.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378729816714" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378815835015" ignored="false" />
@@ -32,7 +33,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -69,6 +69,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -78,91 +79,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FixedQueue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/FixedQueue.java">
+      <file leaf-file-name="ExcDemo1.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="1" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CircularQueue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/CircularQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="24" selection-start="240" selection-end="253" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DynQueue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/DynQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="19" selection-start="235" selection-end="243" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IQDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IQDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="12" selection-start="35" selection-end="41" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IConst.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IConst.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IConstD.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IConstD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="B.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="36" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyClass.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/MyClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="1" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IFExtend.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IFExtend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.3116883">
+            <state line="19" column="1" selection-start="574" selection-end="574" vertical-scroll-proportion="0.5383707">
               <folding />
             </state>
           </provider>
@@ -186,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Series.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/SeriesDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByThrees.java" />
@@ -202,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/B.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/MyClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IFExtend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcDemo1.java" />
       </list>
     </option>
   </component>
@@ -244,8 +164,6 @@
       <sortByType ProjectPane="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -330,12 +248,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter8" />
+              <option name="myItemId" value="chapter9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,8 +271,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -369,19 +289,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -410,6 +317,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -580,114 +500,84 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Series.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/SeriesDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="629" selection-end="629" vertical-scroll-proportion="0.6233766">
-          <folding />
-        </state>
+        <state line="22" column="1" selection-start="629" selection-end="629" vertical-scroll-proportion="0.6233766" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByTwos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="6" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="6" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ByThrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="1" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="25" column="1" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/SeriesDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="17" selection-start="362" selection-end="362" vertical-scroll-proportion="0.3400236">
-          <folding />
-        </state>
+        <state line="12" column="17" selection-start="362" selection-end="362" vertical-scroll-proportion="0.3400236" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/ICharQ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="1" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="1" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/FixedQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="1" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/CircularQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="240" selection-end="253" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="33" column="1" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/DynQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="235" selection-end="243" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="7" column="19" selection-start="235" selection-end="243" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IQDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="35" selection-end="41" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="12" selection-start="35" selection-end="41" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IConst.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IConstD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="14" column="1" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/B.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="36" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="36" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/MyClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="1" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="1" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IFExtend.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.3116883">
+        <state line="11" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.3116883" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/CircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="240" selection-end="253" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="574" selection-end="574" vertical-scroll-proportion="0.5383707">
           <folding />
         </state>
       </provider>
