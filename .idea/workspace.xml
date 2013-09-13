@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/FinallyDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ThrowsDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -124,10 +124,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FinallyDemo.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FinallyDemo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/FinallyDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="1" selection-start="221" selection-end="221" vertical-scroll-proportion="0.283353">
+            <state line="10" column="1" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThrowsDemo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ThrowsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="1" selection-start="551" selection-end="551" vertical-scroll-proportion="0.6800472">
               <folding />
             </state>
           </provider>
@@ -151,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/IFExtend.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcDemo1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcDemo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/NotHandled.java" />
@@ -167,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/UseThrowableMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/UseFinally.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/FinallyDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ThrowsDemo.java" />
       </list>
     </option>
   </component>
@@ -545,11 +554,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter8/CircularQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="240" selection-end="253" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ExcDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="1" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
@@ -650,7 +654,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/FinallyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="1" selection-start="221" selection-end="221" vertical-scroll-proportion="0.283353">
+        <state line="10" column="1" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/chapter9/ThrowsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="1" selection-start="551" selection-end="551" vertical-scroll-proportion="0.6800472">
           <folding />
         </state>
       </provider>
