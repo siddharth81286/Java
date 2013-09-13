@@ -1,7 +1,6 @@
 package com.sayem.chapter9;
 
 class ExcTest {
-    // Generate an exception.
     static void genException() {
         int nums[] = new int[4];
 
