@@ -1,5 +1,6 @@
 package com.sayem.module1.chapter11;
 
+// Use isAlive().
 class MoreThreads {
     public static void main(String args[]) {
         System.out.println("Main thread starting.");
@@ -8,7 +9,7 @@ class MoreThreads {
         MyThread mt2 = new MyThread("Child #2");
         MyThread mt3 = new MyThread("Child #3");
 
-        for(int i=0; i < 50; i++) {
+        do {
             System.out.print(".");
             try {
                 Thread.sleep(100);
@@ -16,7 +17,9 @@ class MoreThreads {
             catch(InterruptedException exc) {
                 System.out.println("Main thread interrupted.");
             }
-        }
+        } while (mt1.thrd.isAlive() ||
+                mt2.thrd.isAlive() ||
+                mt3.thrd.isAlive());
 
         System.out.println("Main thread ending.");
     }
