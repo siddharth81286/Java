@@ -1,27 +1,29 @@
 package com.sayem.module1.chapter11;
 
-// Create a thread by implementing Runnable.
+// Improved MyThread.
 
 class MyThread implements Runnable {
-    String thrdName;
+    Thread thrd;
 
+    // Construct a new thread.
     MyThread(String name) {
-        thrdName = name;
+        thrd = new Thread(this, name);
+        thrd.start(); // start the thread
     }
 
-    // Entry point of thread.
+    // Begin execution of new thread.
     public void run() {
-        System.out.println(thrdName + " starting.");
+        System.out.println(thrd.getName() + " starting.");
         try {
-            for(int count=0; count < 10; count++) {
+            for(int count=0; count<10; count++) {
                 Thread.sleep(400);
-                System.out.println("In " + thrdName +
+                System.out.println("In " + thrd.getName() +
                         ", count is " + count);
             }
         }
         catch(InterruptedException exc) {
-            System.out.println(thrdName + " interrupted.");
+            System.out.println(thrd.getName() + " interrupted.");
         }
-        System.out.println(thrdName + " terminating.");
+        System.out.println(thrd.getName() + " terminating.");
     }
 }
