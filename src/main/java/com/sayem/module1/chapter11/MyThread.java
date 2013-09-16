@@ -1,6 +1,6 @@
 package com.sayem.module1.chapter11;
 
-// Create multiple threads.
+// Use join().
 
 class MyThread implements Runnable {
     Thread thrd;
@@ -8,7 +8,6 @@ class MyThread implements Runnable {
     // Construct a new thread.
     MyThread(String name) {
         thrd = new Thread(this, name);
-
         thrd.start(); // start the thread
     }
 

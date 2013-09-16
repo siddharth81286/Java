@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MoreThreads.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MoreThreads.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,19 +78,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyThread.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MyThread.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="1" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0">
+            <state line="28" column="1" selection-start="797" selection-end="797" vertical-scroll-proportion="0.7933884">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MoreThreads.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MoreThreads.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MoreThreads.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="1" selection-start="735" selection-end="735" vertical-scroll-proportion="0.70838255">
+            <state line="18" column="14" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,8 +155,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/UseThreads.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/UseThreadsImproved.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/ExtendThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MoreThreads.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" />
       </list>
     </option>
   </component>
@@ -494,7 +494,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16558792" sideWeight="0.67085713" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16720603" sideWeight="0.67085713" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -665,16 +665,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MoreThreads.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="1" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0">
+        <state line="18" column="14" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MoreThreads.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="1" selection-start="735" selection-end="735" vertical-scroll-proportion="0.70838255">
+        <state line="28" column="1" selection-start="797" selection-end="797" vertical-scroll-proportion="0.7933884">
           <folding />
         </state>
       </provider>
