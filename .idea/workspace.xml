@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/Sync.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,10 +106,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyThread.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyThread.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="2" selection-start="674" selection-end="674" vertical-scroll-proportion="0.76505315">
+            <state line="2" column="6" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sync.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/Sync.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.5383707">
               <folding />
             </state>
           </provider>
@@ -132,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter10/KtoD.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter10/DtoS.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter10/AvgNums.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/chapter10/Help.java" />
@@ -148,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/PriorityDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/SumArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/Sync.java" />
       </list>
     </option>
   </component>
@@ -560,11 +570,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter10/PrintWriterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter10/KtoD.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="10" selection-start="167" selection-end="171" vertical-scroll-proportion="0.0" />
@@ -653,7 +658,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="2" selection-start="674" selection-end="674" vertical-scroll-proportion="0.76505315">
+        <state line="2" column="6" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/Sync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.5383707">
           <folding />
         </state>
       </provider>
