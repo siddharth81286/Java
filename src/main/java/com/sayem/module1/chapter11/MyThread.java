@@ -2,30 +2,25 @@ package com.sayem.module1.chapter11;
 
 class MyThread implements Runnable {
     Thread thrd;
-    static SumArray sa = new SumArray();
-    int a[];
-    int answer;
+    TickTock ttOb;
 
     // Construct a new thread.
-    MyThread(String name, int nums[]) {
+    MyThread(String name, TickTock tt) {
         thrd = new Thread(this, name);
-        a = nums;
+        ttOb = tt;
         thrd.start(); // start the thread
     }
 
     // Begin execution of new thread.
     public void run() {
-        int sum;
 
-        System.out.println(thrd.getName() + " starting.");
-
-        // synchronize calls to sumArray()
-        synchronized(sa) {
-            answer = sa.sumArray(a);
+        if(thrd.getName().compareTo("Tick") == 0) {
+            for(int i=0; i<5; i++) ttOb.tick(true);
+            ttOb.tick(false);
         }
-        System.out.println("Sum for " + thrd.getName() +
-                " is " + answer);
-
-        System.out.println(thrd.getName() + " terminating.");
+        else {
+            for(int i=0; i<5; i++) ttOb.tock(true);
+            ttOb.tock(false);
+        }
     }
 }
