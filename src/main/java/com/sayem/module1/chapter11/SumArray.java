@@ -1,11 +1,10 @@
 package com.sayem.module1.chapter11;
 
-// Use synchronize to control access.
-
+// Use a synchronized block to control access to SumArray.
 class SumArray {
     private int sum;
 
-    synchronized int sumArray(int nums[]) {
+    int sumArray(int nums[]) {
         sum = 0; // reset sum
 
         for(int i=0; i<nums.length; i++) {
