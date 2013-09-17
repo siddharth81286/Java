@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/SumArray.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/SumArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,19 +96,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumArray.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SumArray.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/SumArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="1" selection-start="657" selection-end="657" vertical-scroll-proportion="0.6800472">
+            <state line="24" column="1" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyThread.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MyThread.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
+            <state line="30" column="1" selection-start="758" selection-end="758" vertical-scroll-proportion="0.85005903">
               <folding />
             </state>
           </provider>
@@ -154,9 +154,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/JoinThreads.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/Priority.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/PriorityDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/Sync.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/SumArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java" />
       </list>
     </option>
   </component>
@@ -648,13 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/Sync.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0">
@@ -664,7 +657,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/SumArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="1" selection-start="657" selection-end="657" vertical-scroll-proportion="0.6800472">
+        <state line="24" column="1" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter11/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="1" selection-start="758" selection-end="758" vertical-scroll-proportion="0.85005903">
           <folding />
         </state>
       </provider>
