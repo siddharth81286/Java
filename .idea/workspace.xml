@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/WildcardDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/A.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -79,15 +79,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TrafficLightSimulator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/TrafficLightSimulator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MyClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/MyClass.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -155,15 +146,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WildcardDemo.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="WildcardDemo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/WildcardDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="838" selection-end="838" vertical-scroll-proportion="0.8783943">
+            <state line="31" column="0" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#196#205#0" expanded="true" />
                 <element signature="e#274#282#0" expanded="true" />
                 <element signature="e#352#358#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="1" selection-start="186" selection-end="186" vertical-scroll-proportion="0.48170012">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -198,7 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/TrafficLightSimulator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/TrafficLightDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/Wrap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/AutoBox.java" />
@@ -214,6 +213,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/BoundsDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/NumericFns.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/WildcardDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/A.java" />
       </list>
     </option>
   </component>
@@ -626,13 +626,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/TrafficLightDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="44" selection-end="60" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/Wrap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
@@ -740,12 +733,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/WildcardDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="838" selection-end="838" vertical-scroll-proportion="0.8783943">
+        <state line="31" column="0" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#196#205#0" expanded="true" />
             <element signature="e#274#282#0" expanded="true" />
             <element signature="e#352#358#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="1" selection-start="186" selection-end="186" vertical-scroll-proportion="0.48170012">
+          <folding />
         </state>
       </provider>
     </entry>
