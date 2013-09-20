@@ -1,8 +1,6 @@
 package com.sayem.module1.chapter13;
 
-// In this version of NumericFns, the type argument
-// for T must be either Number, or a class derived
-// from Number.
+// Use a wildcard.
 class NumericFns<T extends Number> {
     T num;
 
@@ -20,6 +18,15 @@ class NumericFns<T extends Number> {
     // Return the fractional component.
     double fraction() {
         return num.doubleValue() - num.intValue();
+    }
+
+    // Determine if the absolute values of two
+    // objects are the same.
+    boolean absEqual(NumericFns<?> ob) {
+        if(Math.abs(num.doubleValue()) ==
+                Math.abs(ob.num.doubleValue())) return true;
+
+        return false;
     }
 
     // ...
