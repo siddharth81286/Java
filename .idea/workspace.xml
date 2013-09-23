@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenericMethodDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Summation.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_android_driver_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_iphone_driver_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_2_33_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_33_0.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java.iml" afterPath="$PROJECT_DIR$/Java.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1379686480359" ignored="false" />
+    <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1379938775313" ignored="false" />
     <file path="/LengthDemo.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1377606339288" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Book.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378729816714" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378815835015" ignored="false" />
@@ -33,6 +47,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -69,7 +84,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -79,103 +93,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gen.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java">
+      <file leaf-file-name="Summation.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Summation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="1" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
+            <state line="17" column="1" selection-start="291" selection-end="291" vertical-scroll-proportion="0.48170012">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UseBoundedWildcard.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/UseBoundedWildcard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="1" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericMethodDemo.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenericMethodDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="23" selection-start="84" selection-end="101" vertical-scroll-proportion="0.0850059">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="1" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#753#761#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwoGen.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/TwoGen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="12" selection-start="108" selection-end="114" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpGen.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/SimpGen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="1" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#189#206#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumericFns.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/NumericFns.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="3" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WildcardDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/WildcardDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#196#205#0" expanded="true" />
-                <element signature="e#274#282#0" expanded="true" />
-                <element signature="e#352#358#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="1" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BoundsDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/BoundsDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#194#203#0" expanded="true" />
-                <element signature="e#488#496#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -198,8 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/AutoBox.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/AutoBox2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/AutoBox3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/Quadratic.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/MyClass.java" />
@@ -214,6 +134,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/UseBoundedWildcard.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenericMethodDemo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Summation.java" />
       </list>
     </option>
   </component>
@@ -626,125 +548,86 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/AutoBox2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="1" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/AutoBox3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/Quadratic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="28" column="0" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/TrafficLightSimulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="3" column="6" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/MyClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="24" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="20" column="24" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter12/AnnoDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="1" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#753#761#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="34" column="1" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.8299882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/TwoGen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="12" selection-start="108" selection-end="114" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="12" selection-start="108" selection-end="114" vertical-scroll-proportion="0.064935066" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/SimpGen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#189#206#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="19" column="1" selection-start="480" selection-end="480" vertical-scroll-proportion="0.5383707" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/BoundsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#194#203#0" expanded="true" />
-            <element signature="e#488#496#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="30" column="0" selection-start="850" selection-end="850" vertical-scroll-proportion="0.8299882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/NumericFns.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="3" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="32" column="3" selection-start="705" selection-end="705" vertical-scroll-proportion="0.8299882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/WildcardDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#196#205#0" expanded="true" />
-            <element signature="e#274#282#0" expanded="true" />
-            <element signature="e#352#358#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="31" column="0" selection-start="838" selection-end="838" vertical-scroll-proportion="0.8299882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="1" selection-start="186" selection-end="186" vertical-scroll-proportion="0.48170012" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="1" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/UseBoundedWildcard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="1" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
+        <state line="29" column="1" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="853" selection-end="853" vertical-scroll-proportion="0.7367178">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenericMethodDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="23" selection-start="84" selection-end="101" vertical-scroll-proportion="0.0850059">
+        <state line="3" column="6" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Summation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="1" selection-start="291" selection-end="291" vertical-scroll-proportion="0.48170012">
           <folding />
         </state>
       </provider>
