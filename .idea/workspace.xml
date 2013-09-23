@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/QueueFullException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/QueueEmptyException.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -135,10 +135,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueueFullException.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="QueueFullException.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/QueueFullException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="24" selection-start="83" selection-end="101" vertical-scroll-proportion="0.0850059">
+            <state line="3" column="24" selection-start="83" selection-end="101" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueueEmptyException.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/QueueEmptyException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="1" selection-start="199" selection-end="199" vertical-scroll-proportion="0.22668241">
               <folding />
             </state>
           </provider>
@@ -162,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/SimpGen.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/BoundsDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/NumericFns.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/WildcardDemo.java" />
@@ -178,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenIFDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/IGenQ.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/QueueFullException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/QueueEmptyException.java" />
       </list>
     </option>
   </component>
@@ -590,11 +599,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/SimpGen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="480" selection-end="480" vertical-scroll-proportion="0.5383707" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/BoundsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="0" selection-start="850" selection-end="850" vertical-scroll-proportion="0.8299882" />
@@ -683,7 +687,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/QueueFullException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="24" selection-start="83" selection-end="101" vertical-scroll-proportion="0.0850059">
+        <state line="3" column="24" selection-start="83" selection-end="101" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/QueueEmptyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="199" selection-end="199" vertical-scroll-proportion="0.22668241">
           <folding />
         </state>
       </provider>
