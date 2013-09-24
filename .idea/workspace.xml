@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenStr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/MyGenClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Wrong.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -94,16 +95,34 @@
       <file leaf-file-name="Gen.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="38" selection-end="241" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenStr.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Wrong.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Wrong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="20" selection-start="123" selection-end="123" vertical-scroll-proportion="0.1416765">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenStr.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="75" selection-end="83" vertical-scroll-proportion="0.0850059">
+            <state line="3" column="6" selection-start="75" selection-end="83" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyGenClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/MyGenClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="237" selection-end="283" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -139,8 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/UseBoundedWildcard.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenericMethodDemo.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Summation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenConsDemo.java" />
@@ -153,8 +170,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenQDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/RawDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenStr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/MyGenClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Wrong.java" />
       </list>
     </option>
   </component>
@@ -567,18 +586,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/UseBoundedWildcard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="1" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="25" selection-start="853" selection-end="853" vertical-scroll-proportion="0.7367178">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenericMethodDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="6" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" />
@@ -669,16 +676,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+        <state line="3" column="6" selection-start="75" selection-end="83" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenStr.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/MyGenClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="75" selection-end="83" vertical-scroll-proportion="0.0850059">
+        <state line="15" column="0" selection-start="237" selection-end="283" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="38" selection-end="241" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Wrong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="20" selection-start="123" selection-end="123" vertical-scroll-proportion="0.1416765">
           <folding />
         </state>
       </provider>
