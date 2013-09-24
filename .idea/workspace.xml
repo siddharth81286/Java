@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenQDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,14 +78,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GenQDemo.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GenQDemo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenQDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="14" selection-start="108" selection-end="116" vertical-scroll-proportion="0.1983471">
+            <state line="7" column="14" selection-start="108" selection-end="116" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#286#295#0" expanded="true" />
                 <element signature="e#1165#1173#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gen.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="3" selection-start="291" selection-end="291" vertical-scroll-proportion="0.45336482">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,7 +119,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/WildcardDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/A.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/UseBoundedWildcard.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenericMethodDemo.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -125,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/QueueEmptyException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenQDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java" />
       </list>
     </option>
   </component>
@@ -547,11 +555,6 @@
         <state line="17" column="1" selection-start="186" selection-end="186" vertical-scroll-proportion="0.48170012" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/UseBoundedWildcard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="1" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0" />
@@ -636,11 +639,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenQDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="108" selection-end="116" vertical-scroll-proportion="0.1983471">
+        <state line="7" column="14" selection-start="108" selection-end="116" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#286#295#0" expanded="true" />
             <element signature="e#1165#1173#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="3" selection-start="291" selection-end="291" vertical-scroll-proportion="0.45336482">
+          <folding />
         </state>
       </provider>
     </entry>
