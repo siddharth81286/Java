@@ -1,15 +1,18 @@
 package com.sayem.module1.chapter13;
 
-// Here, T is bound by Object by default.
-class Gen<T> {
-    T ob; // here, T will be replaced by Object
+// Generics and arrays.
+class Gen<T extends Number> {
+    T ob;
 
-    Gen(T o) {
+    T vals[]; // OK
+
+    Gen(T o, T[] nums) {
         ob = o;
-    }
 
-    // Return ob.
-    T getob() {
-        return ob;
+        // This statement is illegal.
+//  vals = new T[10]; // can't create an array of T
+
+        // But, this statement is OK.
+        vals = nums; // OK to assign reference to existent array
     }
 }
