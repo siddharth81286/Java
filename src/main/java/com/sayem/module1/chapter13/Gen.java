@@ -1,11 +1,9 @@
 package com.sayem.module1.chapter13;
 
-// Demonstrate a raw type.
+// Here, T is bound by Object by default.
 class Gen<T> {
-    T ob; // declare an object of type T
+    T ob; // here, T will be replaced by Object
 
-    // Pass the constructor a reference to
-    // an object of type T.
     Gen(T o) {
         ob = o;
     }
