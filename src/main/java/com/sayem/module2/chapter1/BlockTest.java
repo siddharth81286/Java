@@ -1,4 +1,4 @@
-package com.sayem.module2;
+package com.sayem.module2.chapter1;
 
 /*
   Demonstrate a block of code.
