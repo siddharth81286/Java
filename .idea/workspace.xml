@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/DynInit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Scope.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -98,10 +98,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DynInit.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DynInit.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/DynInit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.3408284">
+            <state line="12" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scope.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Scope.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="1" selection-start="545" selection-end="545" vertical-scroll-proportion="0.56804734">
               <folding />
             </state>
           </provider>
@@ -125,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/MyGenClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Wrong.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Gen.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenArrays.java" />
@@ -141,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/BoolTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/DynInit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Scope.java" />
       </list>
     </option>
   </component>
@@ -553,11 +562,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/MyGenClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="237" selection-end="283" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/Wrong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="2" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" />
@@ -650,7 +654,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/DynInit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.3408284">
+        <state line="12" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="545" selection-end="545" vertical-scroll-proportion="0.56804734">
           <folding />
         </state>
       </provider>
