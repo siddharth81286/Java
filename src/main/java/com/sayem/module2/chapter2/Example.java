@@ -1,4 +1,4 @@
-package com.sayem.module2.chapter1;
+package com.sayem.module2.chapter2;
 
 /*
    This is a simple Java program.

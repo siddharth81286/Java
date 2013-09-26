@@ -1,4 +1,4 @@
-package com.sayem.module2.chapter2;
+package com.sayem.module2.chapter3;
 
 // Demonstrate char data type.
 class CharDemo {
