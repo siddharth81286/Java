@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter1/BlockTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/BlockTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter1/Example.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Example.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter1/Example2.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Example2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter1/ForTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/ForTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter1/IfSample.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/IfSample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Area.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Area.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/CharDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Light.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Light.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -26,6 +19,7 @@
     <file path="/UseBook.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378816147931" ignored="false" />
     <file path="/ExtBook.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378816297778" ignored="false" />
     <file path="/IConst.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378902653433" ignored="false" />
+    <file path="/CharDemo2.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1380198044261" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +79,17 @@
     <favorites_list name="Java" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="CharDemo2.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="1" selection-start="318" selection-end="318" vertical-scroll-proportion="0.36923078">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -103,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenQDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/RawDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenStr.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/MyGenClass.java" />
@@ -119,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Light.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Area.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/CharDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo2.java" />
       </list>
     </option>
   </component>
@@ -255,10 +259,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="module2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,7 +443,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1900" height="993" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -459,7 +459,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16720603" sideWeight="0.67085713" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16720603" sideWeight="0.67085713" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -535,11 +535,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/GenQDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="108" selection-end="116" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/RawDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="13" selection-start="69" selection-end="76" vertical-scroll-proportion="0.0" />
@@ -627,6 +622,13 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Example2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="318" selection-end="318" vertical-scroll-proportion="0.36923078">
           <folding />
         </state>
       </provider>
