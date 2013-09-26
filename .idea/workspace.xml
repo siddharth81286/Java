@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter7/Sub.java" description="/**&#10; * Created with IntelliJ IDEA.&#10; * User: sayem&#10;..." line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Conversion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ScopeErr.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ScopeErr.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="" />
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1380197907894" ignored="false" />
@@ -138,7 +134,7 @@
       <file leaf-file-name="Conversion.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Conversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="1" selection-start="610" selection-end="610" vertical-scroll-proportion="0.59644973">
+            <state line="3" column="31" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0852071">
               <folding />
             </state>
           </provider>
@@ -695,7 +691,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="1" selection-start="610" selection-end="610" vertical-scroll-proportion="0.59644973">
+        <state line="3" column="31" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0852071">
           <folding />
         </state>
       </provider>
