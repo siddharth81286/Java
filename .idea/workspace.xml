@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Average.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -107,10 +107,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Average.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Average.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Average.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.42502952">
+            <state line="15" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoDArray.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="1" selection-start="494" selection-end="494" vertical-scroll-proportion="0.566706">
               <folding />
             </state>
           </provider>
@@ -134,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/BlockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter1/IfSample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Light.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Area.java" />
@@ -150,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Array.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/AutoArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Average.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDArray.java" />
       </list>
     </option>
   </component>
@@ -562,11 +571,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/IfSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="6" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Light.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="1" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0">
@@ -665,7 +669,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Average.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.42502952">
+        <state line="15" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="494" selection-end="494" vertical-scroll-proportion="0.566706">
           <folding />
         </state>
       </provider>
