@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDAgain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Matrix.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -125,10 +125,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoDAgain.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TwoDAgain.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDAgain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="1" selection-start="634" selection-end="634" vertical-scroll-proportion="0.70838255">
+            <state line="25" column="1" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matrix.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Matrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="1" selection-start="510" selection-end="510" vertical-scroll-proportion="0.5383707">
               <folding />
             </state>
           </provider>
@@ -152,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Light.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Area.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/CharDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo2.java" />
@@ -168,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Average.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDAgain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Matrix.java" />
       </list>
     </option>
   </component>
@@ -580,13 +589,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Area.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="6" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0850059">
@@ -685,7 +687,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDAgain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="1" selection-start="634" selection-end="634" vertical-scroll-proportion="0.70838255">
+        <state line="25" column="1" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="510" selection-end="510" vertical-scroll-proportion="0.5383707">
           <folding />
         </state>
       </provider>
