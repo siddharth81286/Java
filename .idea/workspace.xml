@@ -4,10 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter7/Sub.java" description="/**&#10; * Created with IntelliJ IDEA.&#10; * User: sayem&#10;..." line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="" />
+    <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Promote.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1380197907894" ignored="false" />
+    <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1380284417411" ignored="false" />
     <file path="/LengthDemo.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1377606339288" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Book.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378729816714" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378815835015" ignored="false" />
@@ -77,64 +80,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CharDemo2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo2.java">
+      <file leaf-file-name="Promote.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Promote.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="1" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BoolTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/BoolTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="1" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DynInit.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/DynInit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Scope.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Scope.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="1" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LifeTime.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/LifeTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScopeErr.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ScopeErr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="10" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conversion.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Conversion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="31" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0852071">
+            <state line="14" column="1" selection-start="422" selection-end="422" vertical-scroll-proportion="0.3966942">
               <folding />
             </state>
           </provider>
@@ -158,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/Example.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/Example2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/IfSample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/ForTest.java" />
@@ -174,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/LifeTime.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ScopeErr.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Conversion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Promote.java" />
       </list>
     </option>
   </component>
@@ -216,7 +165,6 @@
       <sortByType ProjectPane="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -342,6 +290,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,8 +306,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -375,6 +324,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -403,19 +365,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -586,37 +535,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module1/chapter13/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="6" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="6" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/ForTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="274" selection-end="274" vertical-scroll-proportion="0.3966942">
-          <folding />
-        </state>
+        <state line="14" column="1" selection-start="274" selection-end="274" vertical-scroll-proportion="0.3966942" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/BlockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="428" selection-end="428" vertical-scroll-proportion="0.566706">
-          <folding />
-        </state>
+        <state line="20" column="1" selection-start="428" selection-end="428" vertical-scroll-proportion="0.566706" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/IfSample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="6" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="7" column="6" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Light.java">
@@ -642,9 +578,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Example2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo2.java">
@@ -654,44 +588,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/BoolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="1" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/DynInit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
+        <state line="12" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.3400236">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Scope.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0">
+        <state line="20" column="1" selection-start="545" selection-end="545" vertical-scroll-proportion="0.566706">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/LifeTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0">
+        <state line="14" column="1" selection-start="417" selection-end="417" vertical-scroll-proportion="0.3966942">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ScopeErr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
+        <state line="7" column="10" selection-start="209" selection-end="209" vertical-scroll-proportion="0.1983471">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="31" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0852071">
+        <state line="3" column="31" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0850059">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/BoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="1" selection-start="584" selection-end="584" vertical-scroll-proportion="0.59504133">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Promote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="422" selection-end="422" vertical-scroll-proportion="0.3966942">
           <folding />
         </state>
       </provider>
