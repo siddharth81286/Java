@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Array.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/AutoArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -89,10 +89,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Array.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Array.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="1" selection-start="610" selection-end="610" vertical-scroll-proportion="0.59504133">
+            <state line="21" column="1" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutoArray.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/AutoArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="1" selection-start="304" selection-end="304" vertical-scroll-proportion="0.22668241">
               <folding />
             </state>
           </provider>
@@ -116,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/IfSample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/ForTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/BlockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter1/IfSample.java" />
@@ -132,6 +140,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Conversion.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Promote.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/AutoArray.java" />
       </list>
     </option>
   </component>
@@ -544,11 +553,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/ForTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="274" selection-end="274" vertical-scroll-proportion="0.3966942" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/BlockTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="1" selection-start="428" selection-end="428" vertical-scroll-proportion="0.566706" />
@@ -643,7 +647,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="1" selection-start="610" selection-end="610" vertical-scroll-proportion="0.59504133">
+        <state line="21" column="1" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/AutoArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="304" selection-end="304" vertical-scroll-proportion="0.22668241">
           <folding />
         </state>
       </provider>
