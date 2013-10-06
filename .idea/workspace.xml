@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ThreeDMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/BasicMath.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1380284417411" ignored="false" />
+    <file path="/Dummy.txt" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1381073075693" ignored="false" />
     <file path="/LengthDemo.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1377606339288" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/Book.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378729816714" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/com/sayem/chapter8/bookpack.java" changelist="2a4bdad5-b61c-4474-a7c9-093ea7f86156" time="1378815835015" ignored="false" />
@@ -34,6 +34,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -70,7 +71,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -80,73 +80,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Promote.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Promote.java">
+      <file leaf-file-name="BasicMath.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/BasicMath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Array.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="1" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AutoArray.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/AutoArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="1" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Average.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Average.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwoDArray.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="1" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwoDAgain.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDAgain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="1" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Matrix.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Matrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="1" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreeDMatrix.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ThreeDMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="617" selection-end="617" vertical-scroll-proportion="0.65171194">
+            <state line="31" column="1" selection-start="995" selection-end="995" vertical-scroll-proportion="0.8783943">
               <folding />
             </state>
           </provider>
@@ -170,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/CharDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/BoolTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/DynInit.java" />
@@ -186,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/TwoDAgain.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Matrix.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ThreeDMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/BasicMath.java" />
       </list>
     </option>
   </component>
@@ -290,7 +227,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter3" />
+              <option name="myItemId" value="chapter4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -369,8 +306,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -387,19 +324,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -428,6 +352,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -598,11 +535,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter2/Example2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/CharDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="1" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
@@ -704,6 +636,13 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ThreeDMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="0" selection-start="617" selection-end="617" vertical-scroll-proportion="0.65171194">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/BasicMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="1" selection-start="995" selection-end="995" vertical-scroll-proportion="0.8783943">
           <folding />
         </state>
       </provider>
