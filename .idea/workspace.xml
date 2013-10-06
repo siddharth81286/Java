@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/BitLogic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/ByteShift.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -116,10 +116,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BitLogic.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BitLogic.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/BitLogic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="1" selection-start="976" selection-end="976" vertical-scroll-proportion="0.70838255">
+            <state line="25" column="1" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByteShift.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/ByteShift.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="1" selection-start="340" selection-end="340" vertical-scroll-proportion="0.3966942">
               <folding />
             </state>
           </provider>
@@ -143,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/LifeTime.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ScopeErr.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Conversion.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Promote.java" />
@@ -159,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/OpEquals.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/IncDec.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/BitLogic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/ByteShift.java" />
       </list>
     </option>
   </component>
@@ -571,13 +580,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/ScopeErr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="209" selection-end="209" vertical-scroll-proportion="0.1983471">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter3/Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="31" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0850059">
@@ -678,7 +680,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/BitLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="1" selection-start="976" selection-end="976" vertical-scroll-proportion="0.70838255">
+        <state line="25" column="1" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter4/ByteShift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="340" selection-end="340" vertical-scroll-proportion="0.3966942">
           <folding />
         </state>
       </provider>
