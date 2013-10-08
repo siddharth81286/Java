@@ -16,4 +16,3 @@ class Ternary {
         System.out.println(i + " is " + k);
     }
 }
-
