@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForEach2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/NoChange.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -143,10 +143,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForEach2.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ForEach2.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForEach2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="83" selection-end="91" vertical-scroll-proportion="0.0850059">
+            <state line="3" column="14" selection-start="83" selection-end="91" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoChange.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/NoChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="1" selection-start="460" selection-end="460" vertical-scroll-proportion="0.5383707">
               <folding />
             </state>
           </provider>
@@ -170,7 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/IfElse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/SampleSwitch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/MissingBreak.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/Switch.java" />
@@ -186,6 +194,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForVar.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForEach.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForEach2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/NoChange.java" />
       </list>
     </option>
   </component>
@@ -598,13 +607,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/IfElse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0850059">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/SampleSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="18" selection-start="78" selection-end="90" vertical-scroll-proportion="0.0">
@@ -705,7 +707,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForEach2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="83" selection-end="91" vertical-scroll-proportion="0.0850059">
+        <state line="3" column="14" selection-start="83" selection-end="91" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/NoChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="460" selection-end="460" vertical-scroll-proportion="0.5383707">
           <folding />
         </state>
       </provider>
