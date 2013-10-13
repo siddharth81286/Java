@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForEach3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/Search.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -80,15 +80,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ForTick.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForTick.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="7" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FindPrime.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/FindPrime.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -161,10 +152,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForEach3.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ForEach3.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForEach3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="97" selection-end="105" vertical-scroll-proportion="0.0850059">
+            <state line="3" column="14" selection-start="97" selection-end="105" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Search.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/Search.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="12" selection-start="88" selection-end="94" vertical-scroll-proportion="0.0850059">
               <folding />
             </state>
           </provider>
@@ -188,7 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/MissingBreak.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/Switch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/StringSwitch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/While.java" />
@@ -204,6 +203,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForEach2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/NoChange.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForEach3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/Search.java" />
       </list>
     </option>
   </component>
@@ -616,13 +616,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/MissingBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="18" selection-start="90" selection-end="102" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/Switch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="12" selection-start="89" selection-end="95" vertical-scroll-proportion="0.0">
@@ -723,7 +716,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/ForEach3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="97" selection-end="105" vertical-scroll-proportion="0.0850059">
+        <state line="3" column="14" selection-start="97" selection-end="105" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="88" selection-end="94" vertical-scroll-proportion="0.0850059">
           <folding />
         </state>
       </provider>
