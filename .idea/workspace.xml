@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo7.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/Box.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/Box.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -81,10 +81,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BoxDemo.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BoxDemo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0850059">
+            <state line="3" column="6" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,7 +102,16 @@
       <file leaf-file-name="Box.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/Box.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
+            <state line="21" column="1" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoxDemo7.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="14" selection-start="43" selection-end="51" vertical-scroll-proportion="0.056670602">
               <folding />
             </state>
           </provider>
@@ -162,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/BreakLoop.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/BreakLoop2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/BreakLoop3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/Break.java" />
@@ -176,8 +184,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/Box.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/Box.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo7.java" />
       </list>
     </option>
   </component>
@@ -590,13 +599,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/BreakLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="15" selection-start="74" selection-end="83" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter5/BreakLoop2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="16" selection-start="80" selection-end="90" vertical-scroll-proportion="0.0">
@@ -681,13 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/Box.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="14" selection-start="43" selection-end="51" vertical-scroll-proportion="0.0">
@@ -697,7 +692,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0850059">
+        <state line="3" column="6" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="1" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter6/BoxDemo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="43" selection-end="51" vertical-scroll-proportion="0.056670602">
           <folding />
         </state>
       </provider>

@@ -1,7 +1,7 @@
 package com.sayem.module2.chapter6;
 
-/* Here, Box uses a constructor to initialize the
-   dimensions of a box.
+/* Here, Box uses a parameterized constructor to
+   initialize the dimensions of a box.
 */
 class Box {
     double width;
@@ -9,11 +9,10 @@ class Box {
     double depth;
 
     // This is the constructor for Box.
-    Box() {
-        System.out.println("Constructing Box");
-        width = 10;
-        height = 10;
-        depth = 10;
+    Box(double w, double h, double d) {
+        width = w;
+        height = h;
+        depth = d;
     }
 
     // compute and return volume
