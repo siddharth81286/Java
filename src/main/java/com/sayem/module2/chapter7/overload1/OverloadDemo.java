@@ -1,4 +1,4 @@
-package com.sayem.module2.chapter7;
+package com.sayem.module2.chapter7.overload1;
 
 // Demonstrate method overloading.
 class OverloadDemo {
