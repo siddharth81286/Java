@@ -1,12 +1,17 @@
 package com.sayem.module2.chapter7;
+// Here, Box allows one object to initialize another.
 
-/* Here, Box defines three constructors to initialize
-   the dimensions of a box various ways.
-*/
 class Box {
     double width;
     double height;
     double depth;
+
+    // construct clone of an object
+    Box(Box ob) { // pass object to constructor
+        width = ob.width;
+        height = ob.height;
+        depth = ob.depth;
+    }
 
     // constructor used when all dimensions specified
     Box(double w, double h, double d) {
