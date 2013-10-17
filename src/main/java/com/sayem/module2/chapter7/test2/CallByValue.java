@@ -1,4 +1,4 @@
-package com.sayem.module2.chapter7;
+package com.sayem.module2.chapter7.test2;
 
 class CallByValue {
     public static void main(String args[]) {
