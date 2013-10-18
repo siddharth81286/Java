@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticByName.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -134,10 +134,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StaticDemo.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="StaticDemo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="16" selection-start="43" selection-end="53" vertical-scroll-proportion="0.056670602">
+            <state line="2" column="16" selection-start="43" selection-end="53" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticByName.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticByName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="18" selection-start="43" selection-end="55" vertical-scroll-proportion="0.056670602">
               <folding />
             </state>
           </provider>
@@ -161,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test2/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test2/CallByValue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test3/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test3/PassObjRef.java" />
@@ -177,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/TestStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/UseStatic.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticByName.java" />
       </list>
     </option>
   </component>
@@ -627,13 +636,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test2/CallByValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test3/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="8" selection-start="92" selection-end="105" vertical-scroll-proportion="0.0">
@@ -734,7 +736,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="43" selection-end="53" vertical-scroll-proportion="0.056670602">
+        <state line="2" column="16" selection-start="43" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticByName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="43" selection-end="55" vertical-scroll-proportion="0.056670602">
           <folding />
         </state>
       </provider>
