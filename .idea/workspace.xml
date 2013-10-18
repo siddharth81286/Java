@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticByName.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/Length.java" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/Length.java" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -143,10 +142,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StaticByName.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="StaticByName.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticByName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="18" selection-start="43" selection-end="55" vertical-scroll-proportion="0.056670602">
+            <state line="2" column="0" selection-start="37" selection-end="189" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Length.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/Length.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="12" selection-start="97" selection-end="103" vertical-scroll-proportion="0.0850059">
               <folding />
             </state>
           </provider>
@@ -170,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test2/CallByValue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test3/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test3/PassObjRef.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test4/Test.java" />
@@ -186,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/UseStatic.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticByName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/Length.java" />
       </list>
     </option>
   </component>
@@ -636,13 +644,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="8" selection-start="92" selection-end="105" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test4/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="10" selection-start="73" selection-end="77" vertical-scroll-proportion="0.0">
@@ -743,7 +744,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticByName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="18" selection-start="43" selection-end="55" vertical-scroll-proportion="0.056670602">
+        <state line="2" column="0" selection-start="37" selection-end="189" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/Length.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="97" selection-end="103" vertical-scroll-proportion="0.0850059">
           <folding />
         </state>
       </provider>
