@@ -1,24 +1,19 @@
 package com.sayem.module2.chapter7;
 
-// This program will not compile.
+// Define an inner class within a for loop.
 class Outer {
     int outer_x = 100;
 
     void test() {
-        Inner inner = new Inner();
-        inner.display();
-    }
-
-    // this is an innner class
-    class Inner {
-        int y = 10; // y is local to Inner
-        void display() {
-            System.out.println("display: outer_x = " + outer_x);
+        for(int i=0; i<10; i++) {
+            class Inner {
+                void display() {
+                    System.out.println("display: outer_x = " + outer_x);
+                }
+            }
+            Inner inner = new Inner();
+            inner.display();
         }
-    }
-
-    void showy() {
-//        System.out.println(y); // error, y not known here!
     }
 }
 
