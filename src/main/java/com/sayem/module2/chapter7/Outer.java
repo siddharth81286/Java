@@ -1,6 +1,6 @@
 package com.sayem.module2.chapter7;
 
-// Demonstrate an inner class.
+// This program will not compile.
 class Outer {
     int outer_x = 100;
 
@@ -11,9 +11,14 @@ class Outer {
 
     // this is an innner class
     class Inner {
+        int y = 10; // y is local to Inner
         void display() {
             System.out.println("display: outer_x = " + outer_x);
         }
+    }
+
+    void showy() {
+//        System.out.println(y); // error, y not known here!
     }
 }
 
