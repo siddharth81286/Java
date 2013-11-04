@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a4bdad5-b61c-4474-a7c9-093ea7f86156" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter8/A.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter8/B.java" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,10 +79,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="A.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="A.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter8/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="205" selection-end="205" vertical-scroll-proportion="0.38528895">
+            <state line="11" column="76" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter8/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="1" selection-start="249" selection-end="249" vertical-scroll-proportion="0.42031524">
               <folding />
             </state>
           </provider>
@@ -108,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticByName.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/Length.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/Stack.java" />
@@ -124,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/VarArgs3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/VarArgs4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter8/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter8/B.java" />
       </list>
     </option>
   </component>
@@ -460,7 +467,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16680227" sideWeight="0.67085713" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20667209" sideWeight="0.67085713" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -536,11 +543,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/test5/AccessTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="49" selection-end="59" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter7/StaticDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="6" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
@@ -641,7 +643,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter8/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="205" selection-end="205" vertical-scroll-proportion="0.38528895">
+        <state line="11" column="76" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sayem/module2/chapter8/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="249" selection-end="249" vertical-scroll-proportion="0.42031524">
           <folding />
         </state>
       </provider>
