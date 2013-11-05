@@ -1,4 +1,4 @@
-package com.sayem.module2.chapter8;
+package com.sayem.module2.chapter8.part1;
 
 class SimpleInheritance {
     public static void main(String args[]) {

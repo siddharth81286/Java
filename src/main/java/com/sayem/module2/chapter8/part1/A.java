@@ -1,4 +1,4 @@
-package com.sayem.module2.chapter8;
+package com.sayem.module2.chapter8.part1;
 
 // A simple example of inheritance.
 
