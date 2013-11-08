@@ -1,14 +1,12 @@
 package com.sayem.module2.chapter8;
 
-// Here, Box is extened to include weight.
+// BoxWeight now uses super to initialize its Box attributes.
 class BoxWeight extends Box {
     double weight; // weight of box
 
-    // constructor for BoxWeight
+    // initialize width, height, and depth using super()
     BoxWeight(double w, double h, double d, double m) {
-        width = w;
-        height = h;
-        depth = d;
+        super(w, h, d); // call superclass constructor
         weight = m;
     }
 }
