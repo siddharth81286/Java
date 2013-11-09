@@ -1,5 +1,7 @@
 package com.sayem.module2.chapter8;
-// A complete implementation of BoxWeight.
+// Extend BoxWeight to include shipping costs.
+
+// Start with Box.
 class Box {
     private double width;
     private double height;

@@ -1,6 +1,6 @@
 package com.sayem.module2.chapter8;
 
-// BoxWeight now fully implements all constructors.
+// Add weight.
 class BoxWeight extends Box {
     double weight; // weight of box
 
