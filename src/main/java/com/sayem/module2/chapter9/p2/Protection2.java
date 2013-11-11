@@ -1,6 +1,7 @@
 package com.sayem.module2.chapter9.p2;
+import com.sayem.module2.chapter9.p1.Protection;
 
-class Protection2 extends p1.Protection {
+class Protection2 extends Protection {
     Protection2() {
         System.out.println("derived other package constructor");
 
