@@ -1,4 +1,4 @@
-package com.sayem.module2.chapter11;
+package com.sayem.module2.chapter11.list1;
 
 // Controlling the main Thread.
 class CurrentThreadDemo {

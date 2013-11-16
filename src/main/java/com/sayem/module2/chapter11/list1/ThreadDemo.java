@@ -1,4 +1,4 @@
-package com.sayem.module2.chapter11;
+package com.sayem.module2.chapter11.list1;
 
 class ThreadDemo {
     public static void main(String args[]) {
