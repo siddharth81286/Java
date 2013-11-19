@@ -1,0 +1,26 @@
+package com.sayem.module2.chapter12.list6;
+
+class AskMe {
+    static void answer(Answers result) {
+        switch(result) {
+            case NO:
+                System.out.println("No");
+                break;
+            case YES:
+                System.out.println("Yes");
+                break;
+            case MAYBE:
+                System.out.println("Maybe");
+                break;
+            case LATER:
+                System.out.println("Later");
+                break;
+            case SOON:
+                System.out.println("Soon");
+                break;
+            case NEVER:
+                System.out.println("Never");
+                break;
+        }
+    }
+}
