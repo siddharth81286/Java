@@ -23,4 +23,11 @@ class AskMe {
                 break;
         }
     }
+    public static void main(String args[]) {
+        Question q = new Question();
+        answer(q.ask());
+        answer(q.ask());
+        answer(q.ask());
+        answer(q.ask());
+    }
 }
