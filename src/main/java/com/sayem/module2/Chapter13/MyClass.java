@@ -12,13 +12,11 @@ class MyClass {
 
     // initialize a and b to the same value
     MyClass(int i) {
-        a = i;
-        b = i;
+        this(i, i); // invokes MyClass(i, i)
     }
 
     // give a and b default values of 0
     MyClass( ) {
-        a = 0;
-        b = 0;
+        this(0); // invokes MyClass(0)
     }
 }
