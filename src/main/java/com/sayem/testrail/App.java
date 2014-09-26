@@ -1,7 +1,5 @@
-package com.sayem;
+package com.sayem.testrail;
 
-import com.sayem.testrail.APIClient;
-import com.sayem.testrail.APIException;
 import org.json.simple.JSONObject;
 
 import java.io.IOException;
