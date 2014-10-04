@@ -8,6 +8,10 @@ public class Seat {
         seatNumber = 10;
     }
 
+    public Seat(int seatNumber) {
+        this.seatNumber = seatNumber;
+    }
+
     public void setSeatNumber(int seatNumber) {
         this.seatNumber = seatNumber;
     }

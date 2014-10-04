@@ -7,6 +7,7 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({
         FlightTest.class,
         PassengerTest.class,
-        SeatTest.class
+        SeatTest.class,
+        TicketTest.class
 })
 public class AllTests {}

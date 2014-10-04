@@ -9,6 +9,10 @@ public class Passenger {
         this.name = "Unknown name";
     }
 
+    public Passenger(String name) {
+        this.name = name;
+    }
+
     // getters
     public String getName() {
         return name;

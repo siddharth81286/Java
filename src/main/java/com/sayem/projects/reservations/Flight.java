@@ -15,6 +15,12 @@ public class Flight {
 
     }
 
+    public Flight(int flightNumber, String departureCity, String arrivalCity) {
+        this.flightNumber = flightNumber;
+        this.departureCity = departureCity;
+        this.arrivalCity = arrivalCity;
+    }
+
     // Setters / Getters
     public int getFlightNumber() {
         return flightNumber;
