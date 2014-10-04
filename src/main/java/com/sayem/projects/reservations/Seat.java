@@ -19,4 +19,9 @@ public class Seat {
     public int getSeatNumber() {
         return seatNumber;
     }
+
+    @Override
+    public String toString() {
+        return "Seat: " + this.getSeatNumber();
+    }
 }

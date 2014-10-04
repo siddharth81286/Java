@@ -45,4 +45,5 @@ public class Flight {
     public void setArrivalCity(String arrivalCity) {
         this.arrivalCity = arrivalCity;
     }
+
 }
