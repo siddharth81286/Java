@@ -31,4 +31,16 @@ public class Database {
     public ArrayList<Ticket> getTickets() {
         return tickets;
     }
+
+    public void addSeat(int seatNumber) {
+        seats.add(new Seat(seatNumber));
+    }
+
+    public void addFlight(int flightNumber, String departureCity, String arrivalCity) {
+        flights.add(new Flight(flightNumber, departureCity, arrivalCity));
+    }
+
+    public void addPassenger(String name) {
+        passengers.add(new Passenger(name));
+    }
 }
