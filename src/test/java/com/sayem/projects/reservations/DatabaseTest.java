@@ -35,4 +35,12 @@ public class DatabaseTest {
         testDB.addPassenger("Syed Sayem");
         assertEquals(1, testDB.getPassengers().size());
     }
+
+    @Test
+    public void testBootStrap(){
+        Database testDB = new Database();
+        testDB.bootstrap();
+        assertEquals(6, testDB.getSeats().size());
+        assertEquals(5, testDB.getFlights().size());
+    }
  }

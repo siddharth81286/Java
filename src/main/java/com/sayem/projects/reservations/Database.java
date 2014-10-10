@@ -43,4 +43,19 @@ public class Database {
     public void addPassenger(String name) {
         passengers.add(new Passenger(name));
     }
+
+    public void bootstrap(){
+        addSeat(1);
+        addSeat(2);
+        addSeat(3);
+        addSeat(4);
+        addSeat(5);
+        addSeat(6);
+
+        addFlight(1001, "New York", "Chicago");
+        addFlight(1002, "Los Angeles", "New York");
+        addFlight(1003, "Chicago", "Atlanta");
+        addFlight(1004, "Atlanta", "Chicago");
+        addFlight(1005, "Newark", "Miami");
+    }
 }
