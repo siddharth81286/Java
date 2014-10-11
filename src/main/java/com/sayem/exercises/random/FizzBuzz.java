@@ -1,4 +1,4 @@
-package com.sayem.exercises;
+package com.sayem.exercises.random;
 
 public class FizzBuzz {
 
