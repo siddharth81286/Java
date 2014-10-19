@@ -11,8 +11,6 @@ public class WithoutEnd2 {
 
     public static String withouEnd2(String str) {
 
-        String s = str.split(0, 1);
-
-        return s;
+        return null;
     }
 }
