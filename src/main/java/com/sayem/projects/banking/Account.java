@@ -21,8 +21,13 @@ public class Account {
         this.accountNumber = accountNumber;
     }
 
-    public void deposit(){
+    public void deposit(double howMuch){
 
+        if (howMuch > 0){
+            balance = balance + howMuch;
+        }else{
+            System.out.println("Please ensure the amount to be deposited is not negative.");
+        }
     }
 
     public void withdraw(){
