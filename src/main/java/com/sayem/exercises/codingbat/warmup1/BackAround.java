@@ -12,7 +12,8 @@ public class BackAround {
 
     public static String backAround(String str) {
 
-        return null;
+        String last = str.substring(str.length() - 1);
+        return last + str + last;
 
     }
 }

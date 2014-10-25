@@ -11,6 +11,10 @@ public class Or35 {
 
     public static boolean or35(int n) {
 
-        return true;
+        if (n % 3 == 0 || n % 5 == 0){
+            return true;
+        }else{
+            return false;
+        }
     }
 }
