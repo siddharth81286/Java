@@ -10,8 +10,14 @@ public class Front22 {
     }
 
     public static String front22(String str) {
+        String last;
 
-        return null;
+        if (str.length() <= 2){
+            return str + str + str;
+        }else{
+            last = str.substring(0, 2);
+            return last + str + last;
+        }
     }
 
 }

@@ -1,6 +1,6 @@
-package com.sayem.exercises.codingbat.warmup1;
+package com.sayem.exercises.codingbat.string1;
 
-public class MidCat {
+public class MinCat {
 
     public static void main(String[] args) {
 

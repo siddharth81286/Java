@@ -1,0 +1,15 @@
+package com.sayem.exercises.codingbat.warmup1;
+
+public class IcyHot {
+
+    public static void main(String[] args) {
+
+        System.out.println(icyHot(120, -1));
+        System.out.println(icyHot(-1, 120));
+        System.out.println(icyHot(2, 120));
+    }
+
+    private static boolean icyHot(int temp1, int temp2) {
+        return false;
+    }
+}
