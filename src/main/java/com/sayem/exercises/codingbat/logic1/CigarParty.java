@@ -1,4 +1,4 @@
-package com.sayem.exercises.codingbat.login1;
+package com.sayem.exercises.codingbat.logic1;
 
 public class CigarParty {
 
