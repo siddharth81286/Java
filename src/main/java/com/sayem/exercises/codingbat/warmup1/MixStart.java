@@ -7,9 +7,12 @@ public class MixStart {
         System.out.println(mixStart("mix snacks"));
         System.out.println(mixStart("pix snacks"));
         System.out.println(mixStart("piz snacks"));
+        System.out.println(mixStart(""));
     }
 
     private static boolean mixStart(String str) {
-        return false;
+
+        return str.length() >= 3 && str.substring(1, 3).equalsIgnoreCase("ix");
+
     }
 }

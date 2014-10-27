@@ -11,9 +11,12 @@ public class FrontBack {
 
     public static String frontBack(String str) {
 
-        String last = str.substring(str.length() - 1);
-        String first = str.substring(0);
+        if (str.length() <= 1)
+            return str;
 
-        return null;
+        String mid = str.substring(1, str.length() - 1);
+
+        return str.charAt(str.length() - 1) + mid + str.charAt(0);
     }
+
 }

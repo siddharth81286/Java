@@ -7,9 +7,12 @@ public class StartOz {
         System.out.println(startOz("ozymandias"));
         System.out.println(startOz("bzoo"));
         System.out.println(startOz("oxx"));
+        System.out.println(startOz(""));
+        System.out.println(startOz("a"));
     }
 
     private static String startOz(String str) {
-        return null;
+
+        return str;
     }
 }

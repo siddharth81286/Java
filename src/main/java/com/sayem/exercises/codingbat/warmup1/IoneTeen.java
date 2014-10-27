@@ -10,6 +10,7 @@ public class IoneTeen {
     }
 
     private static boolean ioneTeen(int a, int b) {
-        return false;
+
+        return (a >= 13 && a <= 19) != (b >= 13 && b <= 19);
     }
 }
