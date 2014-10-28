@@ -10,6 +10,14 @@ public class CountXX {
     }
 
     private static int countXX(String str) {
-        return 0;
+
+        int count = 0;
+        for (int i = 0; i < str.length() -1; i++){
+
+            if (str.substring(i, i+2).equalsIgnoreCase("xx")){
+                count++;
+            }
+        }
+        return count;
     }
 }
