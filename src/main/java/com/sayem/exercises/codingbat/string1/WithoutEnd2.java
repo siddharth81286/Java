@@ -11,6 +11,11 @@ public class WithoutEnd2 {
 
     public static String withouEnd2(String str) {
 
-        return null;
+        String l = "";
+        for (int i = 0; i < str.length() - 1; i++){
+
+            l = str.substring(1, str.length() - 1);
+        }
+        return l;
     }
 }

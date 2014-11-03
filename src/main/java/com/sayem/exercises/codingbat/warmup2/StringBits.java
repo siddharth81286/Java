@@ -10,6 +10,13 @@ public class StringBits {
     }
 
     private static String stringBits(String str) {
-        return null;
+        String result = "";
+
+        for (int i=0; i<str.length(); i+=2) {
+            result = result + str.substring(i, i + 1);
+        }
+
+        return result;
     }
+
 }

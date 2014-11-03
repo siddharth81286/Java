@@ -11,6 +11,7 @@ public class MiddleTwo {
 
     public static String middleTwo(String str) {
 
-        return null;
+        int half = str.length() / 2;
+        return str.substring(half - 1, half+1);
     }
 }
