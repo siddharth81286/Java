@@ -10,6 +10,6 @@ public class StringTimes {
     }
 
     private static String stringTimes(String str, int n) {
-        return null;
+        return str;
     }
 }

@@ -10,6 +10,8 @@ public class CountXX {
     }
 
     private static int countXX(String str) {
+        char[] s = str.toCharArray();
+
         return 0;
     }
 }
