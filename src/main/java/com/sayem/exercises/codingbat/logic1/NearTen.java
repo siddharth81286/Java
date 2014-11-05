@@ -11,6 +11,7 @@ public class NearTen {
 
     public static boolean nearTen(int num) {
 
+
         return false;
     }
 }
