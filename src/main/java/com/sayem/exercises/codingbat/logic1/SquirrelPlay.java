@@ -10,6 +10,14 @@ public class SquirrelPlay {
     }
 
     private static boolean squirrelPlay(int temp, boolean isSummer) {
-        return false;
+
+        if (isSummer){
+            return temp >= 60 && temp <= 100;
+        }else if (temp >= 60 && temp <= 90){
+            return true;
+        }else{
+            return false;
+        }
+
     }
 }

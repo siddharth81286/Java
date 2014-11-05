@@ -9,7 +9,6 @@ public class CigarParty {
     }
 
     private static boolean cigarParty(int cigars, boolean isWeekend) {
-
-        return false;
+        return isWeekend && cigars >= 40 || cigars >= 40 && cigars <= 60;
     }
 }
