@@ -11,6 +11,7 @@ public class NTwice {
 
     public static String nTwice(String str, int n) {
 
+
         return null;
     }
 
