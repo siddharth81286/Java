@@ -10,6 +10,6 @@ public class Love6 {
     }
 
     public static boolean love6(int a, int b) {
-        return false;
+        return true;
     }
 }

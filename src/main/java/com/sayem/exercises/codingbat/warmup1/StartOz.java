@@ -13,6 +13,13 @@ public class StartOz {
 
     private static String startOz(String str) {
 
-        return str;
+        if (str.length() >= 1 && str.substring(0).startsWith("oz")){
+            return "oz";
+        }else if (str.length() >= 0 && str.substring(0).startsWith("o")){
+            return "o";
+        }else if (str.length() >= 1 && str.substring(1).startsWith("z"))
+            return "z";
+
+        return "";
     }
 }
