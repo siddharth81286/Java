@@ -10,7 +10,14 @@ public class AlarmClock {
     }
 
     public static String alarmClock(int day, boolean vacation) {
-        return null;
+
+        if (vacation && day == 0 || vacation && day == 6){
+            return "off";
+        }else if (!vacation && day >= 1 && day <= 5){
+            return "7:00";
+        }else{
+            return "10:00";
+        }
 
     }
 }

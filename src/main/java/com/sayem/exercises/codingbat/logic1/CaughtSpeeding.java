@@ -10,6 +10,7 @@ public class CaughtSpeeding {
     }
 
     private static int caughtSpeeding(int speed, boolean isBirthday) {
+
         return 0;
     }
 }
