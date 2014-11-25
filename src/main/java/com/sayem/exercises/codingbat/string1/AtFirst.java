@@ -5,9 +5,11 @@ public class AtFirst {
         System.out.println(atFirst("hello"));
         System.out.println(atFirst("hi"));
         System.out.println(atFirst("h"));
+        System.out.println(atFirst(""));
     }
 
     private static String atFirst(String str) {
+
         return null;
     }
 }

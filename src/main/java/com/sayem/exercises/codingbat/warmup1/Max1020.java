@@ -10,6 +10,7 @@ public class Max1020 {
     }
 
     private static int max1020(int a, int b) {
+
         return 0;
     }
 }
