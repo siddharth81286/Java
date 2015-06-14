@@ -1,4 +1,4 @@
-package com.sayem;
+package com.sayem.example;
 
 /**
  * Created by syed.sayem on 6/13/15.
