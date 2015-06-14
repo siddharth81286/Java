@@ -1,4 +1,4 @@
-package com.sayem.stream.api.match;
+package com.sayem.stream.api.models;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
@@ -53,6 +53,7 @@ public class Employee {
 
         return Arrays.asList(p1, p2, p3, p4, p5, p6);
     }
+
 
     @Override
     public String toString() {
