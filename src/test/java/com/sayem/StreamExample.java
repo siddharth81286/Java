@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 /**
@@ -12,9 +13,29 @@ import java.util.stream.Stream;
 public class StreamExample {
 
 
+
+    @Test
+    public void mapToLongMapToDouble(){
+        Stream.of("a1", "a2", "a3")
+                .map(s -> s.substring(1))
+                .mapToInt(Integer::parseInt)
+                .max()
+                .ifPresent(System.out::println);
+    }
+
+    @Test
+    public void streamInt(){
+        Arrays.stream(new int[] {1, 2, 3})
+                .map(n -> 2 * n + 1)
+                .average()
+                .ifPresent(System.out::println);
+    }
+
     @Test
     public void streamRange(){
 
+        IntStream.range(1, 4)
+                .forEach(System.out::println);
     }
 
     @Test
