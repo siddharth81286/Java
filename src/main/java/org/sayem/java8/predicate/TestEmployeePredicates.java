@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import static org.sayem.java8.predicate.EmployeePredicates.*;
+
 /**
  * Created by syed.sayem on 6/13/15.
  */
