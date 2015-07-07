@@ -1,4 +1,4 @@
-package org.sayem.java8.problem;
+package org.sayem.problem;
 
 /**
  * Created by syed.sayem on 6/20/15.
